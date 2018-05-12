@@ -1,10 +1,16 @@
 _repo: Blackie-Son-s-Illustrated-Story-Books-Catalogue-1889_48619
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48619-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Son, Blackie &
     gutenberg_agent_id: '44884'
     url: http://www.gutenberg.org/2009/agents/44884
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48619#Blackie-Son-s-Illustrated-Story-Books-Catalogue-1889
 gutenberg_issued: '2015-03-31'
 gutenberg_type: Text
 identifiers:
